@@ -1,2 +1,4 @@
 # jsbert
-Example for testing Tokenizers node.js binding
+Exploring Bert using Tokenizers lib from HuggingFace
+
+
